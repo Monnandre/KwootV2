@@ -1,0 +1,16 @@
+aiohttp
+beautifulsoup4
+langchain
+langchain-core
+langchain-text-splitters
+langsmith
+numpy
+pandas
+pillow
+pinecone-client
+pydantic
+python-dotenv
+requests
+streamlit
+tqdm
+
